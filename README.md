@@ -1,3 +1,5 @@
+Archived -  version 3 of original cron supports all things implemented here
+
 [![GoDoc](http://godoc.org/github.com/bububa/cron?status.png)](http://godoc.org/github.com/bububa/cron) 
 [![Build Status](https://travis-ci.org/bububa/cron.svg?branch=master)](https://travis-ci.org/bububa/cron)
 
